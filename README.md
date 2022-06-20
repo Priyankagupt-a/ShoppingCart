@@ -16,3 +16,5 @@ How to use xamp/database
 7.Click the  Go  button to run the command.
   For Mac users, you may press  Control+Enter  to run
   For Windows users, you may press  Control+Enter  to run
+  
+(add the shoppingcart folder in xampp folder in lacal storage)
